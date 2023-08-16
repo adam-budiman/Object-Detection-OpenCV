@@ -1,15 +1,16 @@
-# Object-Detection-OpenCV
-Project ini merupakan Project Harian testing yang dilakukan untuk mengenali benda-benda sekitar dengan pengujian data olah/latih.
+Object-Detection-OpenCV
+This project is a daily testing project carried out to recognize surrounding objects with the testing of processed/trained data.
 
-Library yang dibutuhkan:
- 1. opencv-python
+Required libraries:
+opencv-python
 
-Text Editor yang digunakan:
- 1. Pycharm 2020.3
+Text Editor used:
+Pycharm 2020.3
 
-Langkah-langkah:
- 1. Download git project.
- 2. Masukkan kedalam text editor (bebas). Kalo tidak menggunakan Pycharm pastikan sudah ada Python 3.5 keatas dan Library yang dibutuhkan.
- 3. Pastikan file-file dalam satu folder.
- 4. Run Program (Jika menggunakan Eksternal kamera ubah nilainya 1/0 -> yang penting bisa connect ke kamera)
- 5. Silahkan dikembangkan!
+Steps:
+
+1. Download the git project.
+2. Enter it into a text editor (any). If not using Pycharm, make sure you have Python 3.5 or higher and the required libraries.
+3. Ensure that the files are in one folder.
+4. Run the program (if using an external camera, change the value to 1/0 -> as long as it can connect to the camera).
+5. Please develop it.
